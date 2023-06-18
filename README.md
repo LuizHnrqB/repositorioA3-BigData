@@ -11,13 +11,17 @@ Projeto realizado para o trabalho final da matéria Análise de dados e Big Data
 
 * [Sobre](#sobre-o-projeto)
 * [Tecnologias Usadas](#tecnologias-usadas)
-
+* [Apresentação] (#apresentacao)
 
 # Tecnologias Usadas
 
 - chatGPT - utilizado como banco de dados
 - software QGIS - com shapeFile disponibilizado pelo IBGE
 - Portal IBGE
+
+# Apresentação
+
+-Link do video no Google Drive: https://drive.google.com/file/d/1gS4TPNcsW8gcG3QFp9oMFoEfW1y07LNX/view?usp=sharing
 
 
 # Autores
