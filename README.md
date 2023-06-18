@@ -1,57 +1,28 @@
-# Título do Projeto
+Análise de dados exploratória C onsumo de dados dos municípios do Brasil usando diferentes métodos
 
 
-![Capa do Projeto](https://picsum.photos/850/280)
+![Capa do Projeto]([https://picsum.photos/850/280](https://img.freepik.com/vetores-premium/banner-de-big-data_36298-156.jpg))
 
 # Sobre o Projeto
+Projeto realizado para o trabalho final da matéria Análise de dados e Big Data, ministrada pelo professor Diego. O intuito do presente trabalho foi a realização de uma consulta nos bancos de dados do IBGE e comparando os resultados com os disponibilizados pelo chatGPT, da OpenAI. O objetivo dessa comparação de resultados foi justamente o teste de confiabilidade da plataforma de Inteligência artificial que está sendo amplamente discutida em várias esferas da sociedade, principalmente no meio da tecnologia. 
 
-Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
-
-<h4 align="center"> 
-	🚧  Em desenvolvimento . . .
-</h4>
 
 # Índice/Sumário
 
 * [Sobre](#sobre-o-projeto)
-* [Sumário](#índice/sumário)
-* [Requisitos Funcionais](#requisitos-funcionais)
 * [Tecnologias Usadas](#tecnologias-usadas)
-* [Contribuição](#contribuição)
-* [Autores](#autores)
-* [Licença](#licença)
-* [Agradecimentos](#agradecimentos)
 
-
-# Requisitos Funcionais 
-
-- [x] **Cadastrar Usuário**
-- [x] **Fazer Login**
-- [ ] Matricular em Curso
-- [ ] Cancelar Matricula
-- [ ] Visualizar Notas
-- [ ] Visualizar e Atualizar Informações do Estudante
 
 # Tecnologias Usadas
 
-- [Flutter](https://flutter.dev/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- chatGPT - utilizado como banco de dados
+- software QGIS - com shapeFile disponibilizado pelo IBGE
+- Portal IBGE
 
-# Contribuição
-
-Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações *pull* (*Pull Request*) para nós.
 
 # Autores
 
-[Exemplo](https://github.com/testing-library/react-testing-library#contributors)
+- Luiz Henrique Alves Pinto Bittencourt - 321111628
 
-# Licença
 
-Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
 
-# Agradecimentos
-
-Seção livre para você agradecer a todos que contribuiram para a execução do seu projeto.
